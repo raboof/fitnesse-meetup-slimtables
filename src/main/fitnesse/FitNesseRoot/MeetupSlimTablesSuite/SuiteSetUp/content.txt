@@ -1,0 +1,9 @@
+!*> Suite Set Up
+
+!|import                                |
+|com.xebia.fitnesse.meetup.slim.fixtures|
+
+!|script                        |spring context factory         |
+|create spring context if needed|applicationContext-FitNesse.xml|
+
+*!
