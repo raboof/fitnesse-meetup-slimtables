@@ -1,1 +1,8 @@
-!2 Thanks! Questions?
+!1 Thanks! Questions?
+
+!3 Get in touch: a.engelen@xebia.com / @raboofje
+
+!4 Find this presentation at https://github.com/raboof/fitnesse-meetup-slimtables
+
+!4 Want more details? http://fitnesse.org/FitNesse.UserGuide.SliM
+
